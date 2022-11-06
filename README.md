@@ -18,3 +18,4 @@ www.patika.dev merge sort projesi.
 
 
 wwww.patika.dev
+https://app.patika.dev/gokcengllc
